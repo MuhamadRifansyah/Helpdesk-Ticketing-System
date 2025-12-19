@@ -1,0 +1,22 @@
+.container {
+    padding: 48px;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+    font-weight: 800;
+    color: white;
+  }
+  
+  .header p {
+    color: #cbd5f5;
+    margin-top: 8px;
+  }
+  
+  .stats {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+  
