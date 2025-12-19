@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 A role-based **Helpdesk Ticketing System** built with **Next.js (App Router)** that simulates a real-world customer support workflow between **Users, Agents, and Admins**.
 
-Project ini dibuat untuk **portfolio**, **latihan sistem enterprise**, dan **persiapan interview frontend / fullstack**.
+Project ini dibuat untuk **portfolio**, **latihan sistem enterprise**, frontend / fullstack**.
 
 ---
 
